@@ -5,6 +5,14 @@
     <description />
     <language>en</language>
     <item>
+      <title>Version 0.1.6</title>
+      <pubDate>Sun, 06 Sep 2026 04:51:37 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/lllll8505-ui/n5j7-pkgmeta/releases/download/v0.1.6/MMCut-0.1.6.dmg" length="3621644" type="application/octet-stream" sparkle:edSignature="5a34GG6eeN5SzO24i9IjoUzaRa4z0U7jkyyIm5OVS+CwJeWv3vMXWJefHH9r/QWNMdi//Js2N19jwWF5Aau0CA==" />
+    </item>
+    <item>
       <title>Version 0.1.5</title>
       <pubDate>Sun, 06 Sep 2026 04:40:10 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
